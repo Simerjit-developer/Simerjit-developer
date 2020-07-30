@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 
+
+I am a FullStack Developer :woman_technologist: currently in Toronto, Canada. I have developed web applications and REST API's using MEAN Stack Framework, .Net Framework, SpringBoot Framework, CakePHP Framework, Angular, TypeScript, JavaScript, PHP, and NodeJs till now. In terms of databases, I have a good knowledge of SQL Server, MySql, MySqli, MongoDB and DynamoDB. I have also some experience with hybrid mobile applications using Ionic. I am exploring Security perspectives and Docker nowadays :star_struck:
+
+###  📫 Let's get in touch 
+ - LinkedIn: [linkedin.com/in/simerjit-kaur](https://www.linkedin.com/in/simerjit-kaur)
+ - StackOverflow: [stackoverflow.com/users/4822758/simerjit-parmar](https://stackoverflow.com/users/4822758/simerjit-parmar)
+
+
+![](https://i.imgur.com/OTKgDSt.gif)
 
 <!--
 **Simerjit-developer/Simerjit-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
